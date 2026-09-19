@@ -1,0 +1,26 @@
+C++ Loop Benchmark
+
+This is a simple C++ program I made to test how long it takes for a loop to run 1,000,000 times.
+
+About the Program
+
+The program uses a "for" loop and a counter. It also uses the "<chrono>" library to measure the time taken by the loop.
+
+It shows:
+
+- Number of iterations
+- Final count
+- Execution time in milliseconds
+
+What I Used
+
+- C++
+- Code::Blocks
+- "<iostream>"
+- "<chrono>"
+
+The execution time can be different every time I run the program because it depends on the computer's current performance and what other programs are running.
+
+What I Learned
+
+From this activity, I learned how to use a "for" loop for a large number of iterations and how to measure the execution time of a program using "<chrono>". I also learned that the execution time is not always the same every time the program runs.
